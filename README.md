@@ -123,12 +123,11 @@ Kubernetes.
 
 # 🏛 Evidências
 
+<img width="1593" height="780" alt="sonar" src="https://github.com/user-attachments/assets/0739093d-49de-494e-9926-cb3a03536fca" />
 <img width="1663" height="1082" alt="Captura de tela de 2026-02-23 16-18-21" src="https://github.com/user-attachments/assets/7430c440-6692-4108-8b1d-45921d3ff0fa" />
 <img width="1746" height="957" alt="Captura de tela de 2026-02-23 16-19-08" src="https://github.com/user-attachments/assets/328f6adc-4f28-49fd-9383-73192342bc83" />
 <img width="1655" height="670" alt="Captura de tela de 2026-02-23 16-34-27" src="https://github.com/user-attachments/assets/313bde49-1c8b-4c18-b498-4bacd2da2f84" />
-![sonar](https://github.com/user-attachments/assets/5272d715-9c61-42ab-b50c-b27af4ad2d5d)
-
-
+<img width="1655" height="1137" alt="Captura de tela de 2026-02-23 17-59-09" src="https://github.com/user-attachments/assets/6c8c98d6-a5d0-445a-81a2-7b02698fc4f2" />
 
 
 ------------------------------------------------------------------------
