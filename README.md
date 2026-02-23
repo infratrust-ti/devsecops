@@ -1,11 +1,12 @@
-# 🚀 Infraestrutura GitOps Organizacional -- Kubernetes em Alta Disponibilidade (v1.1)
+# 🚀 Infraestrutura GitOps Organizacional -- Kubernetes em Alta Disponibilidade (v2.0)
 
 ## 📌 Visão Geral
 
 Esta versão evoluída da plataforma consolida um modelo **CI + GitOps +
-DevSecOps enterprise**, incluindo:
+DevSecOps**, incluindo:
 
 -   🔐 Segurança integrada (SAST, SCA, DAST)
+-   🔐 Templates reutilizáveis
 -   🔁 Promotion controlada entre ambientes
 -   📦 Imagem imutável promovida sem rebuild
 -   🏛 Governança organizacional via Git
@@ -134,7 +135,7 @@ Kubernetes.
 
 # 🏁 Conclusão
 
-A Infraestrutura GitOps Organizacional v1.1 representa uma arquitetura
+A Infraestrutura GitOps Organizacional v2.0 representa uma arquitetura
 moderna e enterprise-ready, unindo:
 
 -   CI desacoplado
